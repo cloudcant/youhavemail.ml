@@ -26,6 +26,9 @@
 ## Future Updates
 
 - [ ] Reliable Ui
+  - [ ] Login
+  - [ ] Good Loading Speeds
+  - [ ] Engaging
 
 ## 🤝 Support
 
