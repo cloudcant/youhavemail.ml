@@ -1,6 +1,3 @@
-<h1 align="center">YouHaveMail.ml</h1>
-
-<p align="center">Cool Beans Web Based Operatig System With as Much Things As I Can Cram Into It :3</p>
 
 ## Links
 
